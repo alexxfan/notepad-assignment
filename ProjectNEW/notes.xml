@@ -1,0 +1,23 @@
+<object-stream>
+  <list>
+    <models.Note>
+      <noteTitle>will</noteTitle>
+      <notePriority>3</notePriority>
+      <noteCategory>hobby</noteCategory>
+      <isNoteArchived>true</isNoteArchived>
+      <items>
+        <models.Item>
+          <itemDescription> programming project due sunday</itemDescription>
+          <isItemCompleted>true</isItemCompleted>
+        </models.Item>
+      </items>
+    </models.Note>
+    <models.Note>
+      <noteTitle>jordan</noteTitle>
+      <notePriority>5</notePriority>
+      <noteCategory>college</noteCategory>
+      <isNoteArchived>true</isNoteArchived>
+      <items/>
+    </models.Note>
+  </list>
+</object-stream>
