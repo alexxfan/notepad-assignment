@@ -15,3 +15,12 @@ This repository contains the code and documentation for a Notepad Application wi
 - **Items**: Add, update, delete and manage items within notes.
 - **Reports**: Generate reports for notes and items based on categories, priorities, and statuses.
 - **Settings**: Save and load data.
+
+- ## Setting up
+
+To run the Notepad application:
+
+   ```bash
+   git clone https://github.com/alexxfan/notepad-assignment.git
+   cd notepad-assignment
+   java -jar target/notepad-assignment.jar
